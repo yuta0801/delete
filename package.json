@@ -1,0 +1,27 @@
+{
+  "name": "delete",
+  "version": "1.0.0",
+  "description": "Delete Discord messages.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yuta0801/delete.git"
+  },
+  "keywords": [
+    "delete",
+    "message",
+    "discord"
+  ],
+  "author": "yuta0801",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yuta0801/delete/issues"
+  },
+  "homepage": "https://github.com/yuta0801/delete#readme",
+  "dependencies": {
+    "discord.js": "^11.1.0"
+  }
+}
