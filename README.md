@@ -9,7 +9,7 @@ Discordで`/clear`と打つと
 削除することが出来ます。
 
 ***DEMO:***
-
+![デモ](https://github.com/yuta0801/delete/blob/media/demo.gif)
 
 ## Requirement
 
